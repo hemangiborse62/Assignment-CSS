@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+#id1{
+	background-color: skyblue;
+}
+#id2{
+	background-color: darkblue;
+	width : auto;
+	height :50px;
+	padding-bottom:50px;
+	
+}
+
+#id3{
+	background-color: blue;
+	max-height: 20px;
+}
+
+#id5{
+	background-color: blue;
+}
